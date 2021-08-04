@@ -2,8 +2,10 @@ package Java.Easy;
 
 public class Hello {
     public static void main(String[] args) {
-        /* Enter your code here. Print output to STDOUT. Your class should be named Solution. */
-        System.out.println("Hello, World.");
-        System.out.println("Hello, Java.");
+       int i=010;
+        int j=07;
+        System.out.println(i);
+        System.out.println(j
+        );
     }
 }
