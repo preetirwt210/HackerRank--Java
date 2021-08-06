@@ -1,4 +1,4 @@
-package Java.Easy;
+package Java.Easy.Strings;
 
 import java.util.Locale;
 import java.util.Scanner;

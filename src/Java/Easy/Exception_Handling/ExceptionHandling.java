@@ -1,4 +1,4 @@
-package Java.Easy;
+package Java.Easy.Exception_Handling;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

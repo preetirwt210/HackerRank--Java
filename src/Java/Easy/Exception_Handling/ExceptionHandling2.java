@@ -1,6 +1,5 @@
-package Java.Easy;
+package Java.Easy.Exception_Handling;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 class MyCal {

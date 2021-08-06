@@ -1,4 +1,4 @@
-package Java.Easy;
+package Java.Easy.Introduction;
 
 import java.text.NumberFormat;
 import java.util.Locale;

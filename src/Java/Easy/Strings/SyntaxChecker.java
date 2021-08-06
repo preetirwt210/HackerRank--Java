@@ -1,4 +1,4 @@
-package Java.Easy;
+package Java.Easy.Strings;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;

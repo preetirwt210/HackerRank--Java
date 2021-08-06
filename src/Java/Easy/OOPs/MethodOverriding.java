@@ -1,4 +1,4 @@
-package Java.Easy;
+package Java.Easy.OOPs;
 
 class Sports{
 
